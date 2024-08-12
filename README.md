@@ -2,7 +2,7 @@ Access thhis project using the link
 
 ### `https://dashboard-lake-mu.vercel.app/`
 
-## Available Scripts
+## To run locally on Your computer
 
 First clone my project using the following command
 
