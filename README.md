@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+Access thhis project using the link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `https://dashboard-lake-mu.vercel.app/`
 
 ## Available Scripts
 
