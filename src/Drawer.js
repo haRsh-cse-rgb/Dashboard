@@ -80,12 +80,13 @@ function Drawers({ isOpen, onClose }) {
                   <Stack spacing={2}>
                     {category.widgets.map((widget) => (
                       <HStack key={widget.id} spacing={3}>
+                      
                         <Checkbox
                           isChecked={selectedWidgets[widget.id] || false}
                           onChange={(e) => handleCheckboxChange(widget.id, e.target.checked)}
                         >
-                          {widget.name}
-                        </Checkbox>
+                          {widget.name} 
+                        </Checkbox> 
                       </HStack>
                     ))}
                   </Stack>

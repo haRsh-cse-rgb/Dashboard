@@ -111,7 +111,7 @@ const Dashboard = () => {
         <Heading size={'md'}>Cnapp Dashboard</Heading>
         <HStack spacing={3}>
         <Button onClick={onDrawerOpen}  colorScheme='gray' border={'1px solid black'} backgroundColor="white" size={'sm'}>
-          Add Widgets +
+          Widgets
         </Button>
         <Drawers isOpen={isDrawerOpen} onClose={onDrawerClose} />
         <IconButton
